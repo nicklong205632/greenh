@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.campaigngreenhouse.com");
+header("Location: https://www.polishedclean.com");
 die();
 ?>
