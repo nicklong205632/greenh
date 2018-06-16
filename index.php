@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.polishedclean.com");
+header("Location: http://www.poemofquotes.com");
 die();
 ?>
